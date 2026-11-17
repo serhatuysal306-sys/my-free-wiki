@@ -1,0 +1,1007 @@
+{
+ "format": "MyFreeWiki",
+ "version": 1,
+ "title": "Hz. Muhammed (s.a.v.)",
+ "subtitle": "571 Mekke – 632 Medine · Hayatı, ahlakı ve mirası",
+ "suggest": [
+  "Hira",
+  "Hicret",
+  "Bedir",
+  "Hatice",
+  "Veda Hutbesi",
+  "Mekke'nin fethi",
+  "Medine",
+  "Ebû Bekir",
+  "Mevlid",
+  "Hadis",
+  "Uhud",
+  "Hudeybiye"
+ ],
+ "sections": [
+  {
+   "id": "ozet",
+   "title": "Kısaca Hz. Muhammed (s.a.v.)",
+   "lead": "Önce temel bilgiler.",
+   "type": "n",
+   "items": [
+    {
+     "title": "Kimlik kartı",
+     "tag": "",
+     "text": "Adı Muhammed'dir (“çok övülen”). Mekke'de, Hâşimoğulları ailesinden Kureyş kabilesinde dünyaya geldi. Babası Abdullah, annesi Âmine'dir.||Doğum: Fil Yılı, Rebiülevvel ayı, bir pazartesi günü (yaklaşık M.S. 570–571; Türkiye'de yaygın kabul 571). Vefat: 11 Hicrî / 8 Haziran 632, Medine, pazartesi. Ömrü yaklaşık 63 yıldır.||Peygamberliği: 40 yaşında ilk vahiy (Hira Mağarası, 610 civarı). Yaklaşık 23 yıl boyunca Kur'an-ı Kerim vahyedildi: 13 yıl Mekke'de, 10 yıl Medine'de.",
+     "keywords": "kimlik doğum vefat yaş 63 mekke medine kureyş hâşimoğulları"
+    },
+    {
+     "title": "Unvan ve isimleri",
+     "tag": "",
+     "text": "Muhammed ve Ahmed Kur'an'da geçen isimleridir. Peygamberliğinden önce de dürüstlüğü nedeniyle “el-Emîn” (güvenilir) diye anılırdı.||Diğer anılan isimleri ve sıfatları: Mustafa (seçilmiş), Habîbullah, Resûlullah, Nebiyy-i Ümmî, Hâtemü'l-Enbiyâ (peygamberlerin sonuncusu), Rahmeten li'l-âlemîn (âlemlere rahmet).",
+     "keywords": "isim unvan el-emin mustafa ahmed habibullah resulullah hatemül enbiya"
+    },
+    {
+     "title": "Kutsal kitabı",
+     "tag": "",
+     "text": "İslam inancına göre Hz. Muhammed'e vahyedilen Kur'an-ı Kerim, 114 sureden oluşur. Peygamberimiz vahyi katiplere yazdırır, ashabına ezberletirdi.",
+     "keywords": "kuran kur'an vahiy sure katip hafız"
+    },
+    {
+     "title": "Mirası",
+     "tag": "",
+     "text": "Tevhid inancı, ahlak ve adalet anlayışı, kadınların ve zayıfların haklarının korunması, bilginin değeri ve toplumsal kardeşlik onun getirdiği mesajın temel unsurlarıdır. Medine'de kurduğu toplum ve yönetim modeli İslam medeniyetinin başlangıcıdır.||Dünyada yaklaşık iki milyar Müslüman O'nu son peygamber olarak kabul eder.",
+     "keywords": "miras mesaj ahlak adalet medeniyet"
+    },
+    {
+     "title": "Önemli not",
+     "tag": "",
+     "text": "Bu dosya siyer (Peygamberimizin hayatı) kaynaklarındaki yaygın bilgilere dayanır. Bazı tarihlerde ve ayrıntılarda kaynaklara göre küçük farklar vardır. Dinî hükümler için ilim ehline ve asıl kaynaklara başvurulmalıdır. “s.a.v.” = sallallâhu aleyhi ve sellem (Allah'ın salât ve selamı O'nun üzerine olsun).",
+     "keywords": "not kaynak sav salavat"
+    },
+    {
+     "title": "Bu wiki nasıl kullanılır?",
+     "tag": "",
+     "text": "Üstteki arama kutusuna bir kelime yazın (örn: Hira, Bedir, Hatice, Hicret); tüm bölümlerde aranır ve bulunan kelimeler sarı işaretlenir. “Zaman Çizelgesi”nde bir yıla tıklayınca o yılın olayları açılır.",
+     "keywords": "nasıl kullanılır arama yardım"
+    }
+   ]
+  },
+  {
+   "id": "soy",
+   "title": "Soyu ve Ailesi",
+   "lead": "Hâşimoğulları'ndan gelen aile.",
+   "type": "n",
+   "items": [
+    {
+     "title": "Soyu",
+     "tag": "",
+     "text": "Muhammed b. Abdullah b. Abdülmuttalib b. Hâşim b. Abdimenâf… Soyu Kureyş kabilesi üzerinden Hz. İbrahim'in oğlu Hz. İsmail'e ulaşır. Hâşimoğulları, Mekke'de Kâbe hizmetlerinde (özellikle hacılara su ve yemek ikramı) saygın bir aileydi.",
+     "keywords": "soy nesep kureyş hâşim abdülmuttalib ismail ibrahim"
+    },
+    {
+     "title": "Babası: Abdullah",
+     "tag": "",
+     "text": "Abdullah, Abdülmuttalib'in oğludur. Ticaret için gittiği Şam'dan dönerken Medine'de hastalanıp vefat etti; Hz. Muhammed henüz doğmamıştı.",
+     "keywords": "baba abdullah vefat medine"
+    },
+    {
+     "title": "Annesi: Âmine",
+     "tag": "",
+     "text": "Âmine bint Vehb, Zühre oğullarından saygın bir ailedendi. Oğlunu babasının kabrini ziyaret etmek için Medine'ye götürdü; dönüşte Ebvâ'da hastalanıp vefat etti (Hz. Muhammed 6 yaşındaydı).",
+     "keywords": "anne âmine vehb ebvâ vefat"
+    },
+    {
+     "title": "Dedesi: Abdülmuttalib",
+     "tag": "",
+     "text": "Annesinin ölümünden sonra torununa dedesi Abdülmuttalib baktı; onu çok sevdi. Abdülmuttalib iki yıl sonra vefat etti (Hz. Muhammed 8 yaşındaydı).",
+     "keywords": "dede abdülmuttalib zemzem"
+    },
+    {
+     "title": "Amcası: Ebû Tâlib",
+     "tag": "",
+     "text": "Dedesinin vasiyeti üzerine amcası Ebû Tâlib onu himayesine aldı ve peygamberlik sonrasında da bütün baskılara rağmen onu korudu. Ebû Tâlib iman etmeden vefat etti.",
+     "keywords": "amca ebu talib himaye"
+    },
+    {
+     "title": "Süt annesi: Halime",
+     "tag": "",
+     "text": "Mekke'nin âdeti olarak bebek, çölün sağlıklı havasında büyüsün diye Benî Sa'd kabilesinden Halîme'ye verildi. Yaklaşık beş yıl çölde büyüdü; Arapçayı fasih öğrendi. Sütkardeşi Şeymâ idi.",
+     "keywords": "halime benî sa'd süt anne sütkardeş şeymâ çöl"
+    },
+    {
+     "title": "Eşleri",
+     "tag": "",
+     "text": "Hz. Hatîce (ilk eşi), Hz. Sevde, Hz. Âişe, Hz. Hafsa, Hz. Zeynep bint Huzeyme, Hz. Ümmü Seleme, Hz. Zeynep bint Cahş, Hz. Cüveyriye, Hz. Ümmü Habîbe, Hz. Safiyye ve Hz. Meymûne. Müminlerin anneleri (ümmehâtü'l-mü'minîn) olarak anılırlar. Bu evliliklerin birçoğunda dul kadınların korunması, kabileler arası barış ve dinin öğretilmesi gibi sebepler vardır.||Hz. Hatice hayattayken başka bir evlilik yapmadı.",
+     "keywords": "eşler hatice sevde âişe hafsa ümmü seleme zeynep cüveyriye ümmü habibe safiyye meymune ümmehat"
+    },
+    {
+     "title": "Çocukları",
+     "tag": "",
+     "text": "Kasım, Abdullah (Tayyib/Tâhir) ve Zeynep, Rukıyye, Ümmü Gülsüm, Fâtıma. Kasım ve Abdullah küçük yaşta vefat etti. Hz. Hatice'nin çocukları olan bu kızlardan Hz. Fâtıma dışındakiler Peygamberimizden önce vefat etti.||Oğlu İbrâhim, Mâriye validemizden dünyaya geldi ve bir buçuk yaşlarında vefat etti.",
+     "keywords": "çocuk kasım abdullah zeynep rukıyye ümmü gülsüm fatıma ibrahim mariye"
+    },
+    {
+     "title": "Torunları ve Ehl-i Beyt",
+     "tag": "",
+     "text": "Hz. Fâtıma ile Hz. Ali'nin oğulları Hasan ve Hüseyin, Peygamberimizin çok sevdiği torunlarıdır. Ehl-i Beyt, Peygamberimizin ailesi ve yakınları için kullanılır.",
+     "keywords": "hasan hüseyin ehl-i beyt ali fatıma torun"
+    },
+    {
+     "title": "Sütkardeşleri ve yakın akrabaları",
+     "tag": "",
+     "text": "Amcası Hz. Hamza (“Allah'ın aslanı”), Hz. Abbas ve kuzeni Hz. Ali, Peygamberimizin yakın akrabaları arasındaydı. Hz. Ali'yi çocukluğundan itibaren evinde yetiştirdi.",
+     "keywords": "hamza abbas ali kuzen akraba"
+    }
+   ]
+  },
+  {
+   "id": "cocukluk",
+   "title": "Çocukluk ve Gençlik",
+   "lead": "Peygamberlikten önceki yıllar (571–610).",
+   "type": "n",
+   "items": [
+    {
+     "title": "Doğum",
+     "tag": "571",
+     "text": "Mekke'de, Fil Yılı'nda doğdu. Fil Yılı, Yemen valisi Ebrehe'nin Kâbe'yi yıkmak için fil ordusuyla gelmesi ve başaramaması olayının yaşandığı yıldır (Kur'an'da Fîl suresi).",
+     "keywords": "doğum fil yılı ebrehe fil suresi rebiülevvel 12"
+    },
+    {
+     "title": "Çölde geçen yıllar",
+     "tag": "",
+     "text": "İlk yıllarını Halime'nin yanında, çölde geçirdi. Beş yaşlarında Mekke'ye annesinin yanına döndü.",
+     "keywords": "halime çöl benî sa'd çocukluk"
+    },
+    {
+     "title": "Yetimlik",
+     "tag": "",
+     "text": "6 yaşında annesini, 8 yaşında dedesini kaybetti. Yetim olarak büyümesi, yetimlere ve yoksullara karşı şefkat konusundaki hassasiyetinin kaynağı olarak anlatılır.",
+     "keywords": "yetim kayıp anne baba dede şefkat"
+    },
+    {
+     "title": "Şam yolculuğu ve Rahip Bahîra",
+     "tag": "582",
+     "text": "12 yaşında amcası Ebû Tâlib'le ticaret kervanıyla Şam'a gitti. Busra yakınlarında Rahip Bahîra, çocukta gelecekteki peygamberliğin işaretlerini gördüğünü söylediği rivayet edilir.",
+     "keywords": "şam bahira rahip kervan busra ticaret"
+    },
+    {
+     "title": "Çobanlık ve çalışma hayatı",
+     "tag": "",
+     "text": "Gençliğinde Mekke'de koyun güttü; bunu “Her peygamber koyun gütmüştür” diyerek anlattığı rivayet edilir. Sonra ticarete atıldı; dürüstlüğü ve güvenilirliği sayesinde “el-Emîn” olarak tanındı.",
+     "keywords": "çoban koyun ticaret el-emin dürüst"
+    },
+    {
+     "title": "Hılfü'l-Fudûl",
+     "tag": "",
+     "text": "Gençliğinde Mekke'de mazlumların haklarını korumak ve haksızlığı önlemek için kurulan Hılfü'l-Fudûl (Erdemliler Cemiyeti) anlaşmasına katıldı. Peygamberliğinden sonra da bu antlaşmayı hayırla anmıştır.",
+     "keywords": "hılfül fudûl erdemliler cemiyeti haksızlık"
+    },
+    {
+     "title": "Hz. Hatîce ile evlilik",
+     "tag": "595",
+     "text": "25 yaşında, Hz. Hatîce'nin ticaret işlerini yürütürken gösterdiği dürüstlük ve başarı üzerine, kendisi 40 yaşlarında olan Hatîce ile evlendi. Bu evlilik uzun yıllar sürdü ve Hz. Hatîce İslam'ı ilk kabul eden kişi oldu.",
+     "keywords": "hatice evlilik 25 yaş evlenme ilk mümin"
+    },
+    {
+     "title": "Hacerülesved hakemliği",
+     "tag": "605",
+     "text": "Kureyş, Kâbe'nin yeniden inşası sırasında Hacerülesved'in yerine kimin koyacağı konusunda ihtilafa düştü. Hakem olarak Muhammed el-Emîn seçildi. Taşı bir örtüye koyup her kabile liderinin örtünün bir ucundan tutmasını sağlayarak kavgayı önledi; taşı kendi elleriyle yerine yerleştirdi.",
+     "keywords": "hacerülesved kâbe hakem inşa kureyş çözüm"
+    },
+    {
+     "title": "Hira'ya çekilme",
+     "tag": "",
+     "text": "Peygamberlikten önceki yıllarda Mekke'nin yakınındaki Nûr Dağı'ndaki Hira Mağarası'na çekilip tefekkür ederdi. Bu inzivalar, ilk vahye hazırlık dönemidir.",
+     "keywords": "hira mağarası nur dağı inziva tefekkür"
+    }
+   ]
+  },
+  {
+   "id": "mekke",
+   "title": "Mekke Dönemi",
+   "lead": "Peygamberlik ve davetin başlangıcı (610–622).",
+   "type": "n",
+   "items": [
+    {
+     "title": "İlk vahiy",
+     "tag": "610",
+     "text": "40 yaşında, Ramazan ayında Hira Mağarası'nda Cebrâil (a.s.) gelerek “Oku!” dedi. İlk inen ayetler Alak suresinin ilk beş ayetidir. Heyecanla evine dönen Peygamberimizi Hz. Hatîce teselli etti ve onu destekledi.",
+     "keywords": "ilk vahiy hira cebrail alak suresi oku kadir gecesi"
+    },
+    {
+     "title": "İlk müslümanlar",
+     "tag": "",
+     "text": "İlk iman edenler: Hz. Hatîce (kadınlardan), Hz. Ali (çocuklardan), Hz. Ebû Bekir (hür erkeklerden), Hz. Zeyd b. Hârise (azatlılardan). Ardından Hz. Osman, Talha, Zübeyr, Abdurrahman b. Avf gibi isimler gelmiştir.",
+     "keywords": "ilk müslümanlar ebu bekir ali zeyd hatice osman talha zübeyr"
+    },
+    {
+     "title": "Gizli davet",
+     "tag": "610–613",
+     "text": "Yaklaşık üç yıl davet gizli yürütüldü. Müslümanlar Erkam b. Ebi'l-Erkam'ın evinde (Dârü'l-Erkam) toplanıp Kur'an öğrenirdi.",
+     "keywords": "gizli davet darül erkam erkam evi"
+    },
+    {
+     "title": "Açık davet",
+     "tag": "613",
+     "text": "“Yakın akrabalarını uyar” emri üzerine Safâ Tepesi'nde Mekkelileri çağırdı ve Allah'ın birliğine davet etti. Ebû Leheb sert tepki gösterdi. Bundan sonra Kureyş'in baskı ve işkenceleri artmaya başladı.",
+     "keywords": "açık davet safa tepesi ebu leheb işkence"
+    },
+    {
+     "title": "Mekke'de zulüm ve sabır",
+     "tag": "",
+     "text": "İlk müslümanlardan Bilâl-i Habeşî, Hz. Yasir ailesi (Sümeyye ilk şehit kadın), Habbâb gibi kimseler ağır işkence gördü. Peygamberimiz onlara sabretmelerini tavsiye ediyor, kendisi de hakaretlere ve saldırılara karşılık vermiyordu.",
+     "keywords": "işkence bilal sümeyye yasir habbab zulüm sabır"
+    },
+    {
+     "title": "Habeşistan'a hicret",
+     "tag": "615",
+     "text": "Müslümanlar, Peygamberimizin tavsiyesiyle adil bir hükümdar olan Habeş Necâşîsi'nin yanına gruplar hâlinde hicret etti. Cafer b. Ebi Tâlib heyetin sözcüsüydü; Meryem suresinden okuduğu ayetler Necâşî'yi etkiledi.",
+     "keywords": "habeşistan hicret necaşi cafer meryem suresi"
+    },
+    {
+     "title": "Hz. Ömer'in müslüman olması",
+     "tag": "616 civarı",
+     "text": "Hz. Hamza'dan kısa süre sonra Hz. Ömer de müslüman oldu. Bu iki isim müslümanların Mekke'deki konumunu güçlendirdi.",
+     "keywords": "ömer hamza iman güçlendi"
+    },
+    {
+     "title": "Üç yıllık boykot",
+     "tag": "616–619",
+     "text": "Kureyş, Hâşimoğulları ve müslümanlara karşı ekonomik ve sosyal boykot ilan etti. Müslümanlar yaklaşık üç yıl Şi'b-i Ebî Tâlib'de çok zor şartlarda yaşadı.",
+     "keywords": "boykot şi'b-i ebi talib kuşatma açlık"
+    },
+    {
+     "title": "Hüzün yılı",
+     "tag": "619",
+     "text": "Aynı yıl içinde Peygamberimizin hamisi amcası Ebû Tâlib ve eşi Hz. Hatîce vefat etti. Bu yıla “Senetü'l-Hüzn” (Hüzün Yılı) denir.",
+     "keywords": "hüzün yılı senetül hüzn ebu talib hatice vefat"
+    },
+    {
+     "title": "Tâif yolculuğu",
+     "tag": "619/620",
+     "text": "Peygamberimiz yardım ve destek ummak için Tâif'e gitti. Tâif eşrafı onu dinlemedi, çocukları taşlattı. Yaralı hâlde bir bağa sığındı; Allah'a dua etti. Bu zor günde bile intikam yerine hidayet için dua ettiği anlatılır.",
+     "keywords": "taif taif yolculuğu taşlama dua zeyd"
+    },
+    {
+     "title": "İsrâ ve Mi'râc",
+     "tag": "~621",
+     "text": "Bir gece Mescid-i Harâm'dan Mescid-i Aksâ'ya (İsrâ), oradan semalara (Mi'râc) götürüldü. Bu yolculukta beş vakit namazın farz kılındığı ve bazı ayetlerin verildiği bildirilir. Kur'an'da İsrâ suresi ve Necm suresinde anlatılır. Tarihi hakkında kaynaklarda farklı rivayetler vardır; Türkiye'de 27 Receb gecesi Mirac Kandili olarak anılır.",
+     "keywords": "isra miraç mescid-i aksa beş vakit namaz miraç kandili receb"
+    },
+    {
+     "title": "Akabe biatları",
+     "tag": "621–622",
+     "text": "Medine'den hacca gelen Hazrec ve Evs kabilesinden gruplarla Akabe'de iki kez bağlılık sözleşmesi yapıldı. Peygamberimiz Medine'ye Mus'ab b. Umeyr'i öğretmen olarak gönderdi.",
+     "keywords": "akabe biatı medine mus'ab hazrec evs ensar"
+    },
+    {
+     "title": "Hicret'e hazırlık",
+     "tag": "622",
+     "text": "Müslümanlar gruplar hâlinde Medine'ye göç etti. Kureyş, Peygamberimizi öldürmeye karar verdi. Peygamberimiz Hz. Ali'yi yatağına bırakıp Hz. Ebû Bekir'le gizlice yola çıktı.",
+     "keywords": "hicret hazırlık kureyş suikast darün nedve"
+    }
+   ]
+  },
+  {
+   "id": "hicret",
+   "title": "Hicret ve Medine Dönemi",
+   "lead": "Yeni bir toplumun kuruluşu (622–632).",
+   "type": "n",
+   "items": [
+    {
+     "title": "Sevr Mağarası",
+     "tag": "622",
+     "text": "Hicret yolunda Peygamberimiz ve Hz. Ebû Bekir üç gün Sevr Mağarası'nda saklandı. Mekkeliler arayıp mağaraya yaklaştı; Hz. Ebû Bekir endişelenince Peygamberimiz “Üzülme, Allah bizimle beraberdir” diyerek onu teselli etti (Tevbe 40).",
+     "keywords": "sevr mağarası ebu bekir hicret örümcek üzülme allah bizimle"
+    },
+    {
+     "title": "Medine'ye varış",
+     "tag": "622",
+     "text": "Medineliler Peygamberimizi “Talea'l-bedru aleynâ” gibi şarkılarla karşıladı. Hicret yolculuğunun hemen ardından Kubâ'da İslam'ın ilk mescidi inşa edildi. Develeri Kasvâ'nın çöktüğü yere Mescid-i Nebevî yapıldı.",
+     "keywords": "medine varış kuba mescidi kasvâ mescid-i nebevi ensar"
+    },
+    {
+     "title": "Muhacir ve Ensar kardeşliği",
+     "tag": "",
+     "text": "Mekke'den gelen muhacirlerle Medineli ensar arasında kardeşlik (muâhât) tesis edildi. Ensar evini ve malını muhacirlerle paylaştı.",
+     "keywords": "muahat kardeşlik muhacir ensar"
+    },
+    {
+     "title": "Medine Vesikası",
+     "tag": "",
+     "text": "Müslümanlar, Yahudiler ve diğer gruplar arasında can ve mal güvenliği, ortak savunma ve din hürriyetini düzenleyen yazılı bir anlaşma yapıldı. Bu belge, ilk yazılı anayasa örnekleri arasında sayılır.",
+     "keywords": "medine vesikası anayasa yahudiler hürriyet sözleşme"
+    },
+    {
+     "title": "Mescid-i Nebevî ve Suffe",
+     "tag": "",
+     "text": "Mescid yalnızca ibadet için değil; eğitim, danışma ve yardımlaşma merkezi oldu. Mescidin bir köşesinde yoksul ve ilim öğrenmek isteyen sahabeler (Ashâb-ı Suffe) kalırdı. Ezan ve cemaatle namaz da bu dönemde düzenlendi.",
+     "keywords": "mescid-i nebevi suffe ashab-ı suffe ezan eğitim"
+    },
+    {
+     "title": "Kıblenin değişmesi",
+     "tag": "2 H",
+     "text": "Namazda yönelinen kıble Mescid-i Aksâ'dan Kâbe'ye çevrildi (Bakara 144). Bu olay Medine'de müslüman cemaatin kimliğini belirginleştirdi.",
+     "keywords": "kıble değişimi kâbe mescid-i aksa bakara"
+    },
+    {
+     "title": "Ramazan orucu ve zekât",
+     "tag": "2 H",
+     "text": "Medine'de Ramazan orucu farz kılındı, zekât ve fitre düzenlendi. Ticaret ve pazar ahlakı konusunda düzenlemeler yapıldı.",
+     "keywords": "oruç ramazan zekât fitre pazar"
+    },
+    {
+     "title": "Medine pazarı",
+     "tag": "",
+     "text": "Peygamberimiz Medine'de adil bir pazar kurulmasına özen gösterdi. Ölçü ve tartıda hile yapmayı, karaborsayı ve aldatmayı yasakladı.",
+     "keywords": "pazar ticaret hile ölçü tartı"
+    },
+    {
+     "title": "Yazışmalar ve elçiler",
+     "tag": "6–7 H",
+     "text": "Hudeybiye'den sonra Bizans, Sasani, Habeş, Mısır ve diğer devletlere mektuplarla İslam'a davet gönderdi. Elçiler barışla karşılandı veya reddedildi.",
+     "keywords": "mektup elçi bizans sasani muhtar davet"
+    },
+    {
+     "title": "Mekke'nin fethi",
+     "tag": "630 / 8 H",
+     "text": "Kureyş'in Hudeybiye antlaşmasını bozması üzerine yaklaşık 10 bin kişilik orduyla Mekke'ye yürüdü. Şehre neredeyse kan dökülmeden girildi. Kâbe putlardan temizlendi. Peygamberimiz Mekkelilere genel af ilan etti: “Gidiniz, hepiniz serbestsiniz.”",
+     "keywords": "mekke fethi genel af kâbe put temizlik 630"
+    },
+    {
+     "title": "Veda Haccı ve Hutbesi",
+     "tag": "632 / 10 H",
+     "text": "Yaklaşık 100 binden fazla kişiyle hacca çıktı. Arafat'ta okuduğu Veda Hutbesi'nde can ve mal dokunulmazlığı, faizin kaldırılması, kadınlara iyi davranma, Kur'an ve Sünnet'e sarılma, insanların eşitliği (Arap'ın Arap olmayana üstünlüğünün olmadığı) gibi evrensel ilkeler yer aldı.",
+     "keywords": "veda haccı veda hutbesi arafat eşitlik kadın hakları faiz kur'an sünnet"
+    }
+   ]
+  },
+  {
+   "id": "savaslar",
+   "title": "Savaşlar ve Antlaşmalar",
+   "lead": "Müdafaa mücadeleleri ve barış girişimleri.",
+   "type": "n",
+   "items": [
+    {
+     "title": "Genel bakış",
+     "tag": "",
+     "text": "Medine döneminde yaşanan savaşların çoğu müdafaa mahiyetinde olup Mekke müşriklerinin saldırılarına karşıdır. Peygamberimiz savaş hukuku konusunda çocuk, kadın, yaşlı ve din adamlarına dokunulmaması, ağaçların kesilmemesi ve esirlere iyi davranılması gibi kurallar koydu.",
+     "keywords": "savaş hukuku müdafaa çocuk kadın esir"
+    },
+    {
+     "title": "Bedir Savaşı",
+     "tag": "17 Ramazan 2 H / 624",
+     "text": "Yaklaşık 313 müslüman, kendilerinden çok daha kalabalık Kureyş ordusunu yendi. Bedir, müslümanların Mekke ile ilk büyük mücadelesidir. Esirlerin okuma yazma öğretmesi karşılığında serbest bırakılması bu savaş sonrası uygulanmıştır.",
+     "keywords": "bedir savaşı 313 kureyş esir 624"
+    },
+    {
+     "title": "Uhud Savaşı",
+     "tag": "Şevval 3 H / 625",
+     "text": "Müslümanlar başta üstünlük sağlamış, fakat okçuların tepeden ayrılması sonucu ağır kayıp vermiştir. Hz. Hamza şehit düştü, Peygamberimiz yaralandı. Savaş, itaatin ve disiplinin önemini gösteren bir derstir.",
+     "keywords": "uhud savaşı hamza okçular 625"
+    },
+    {
+     "title": "Hendek Savaşı",
+     "tag": "5 H / 627",
+     "text": "Medine'nin kuzeyine Selman-ı Fârisî'nin önerisiyle hendek kazıldı. Kureyş ve müttefikleri uzun süre kuşatma yaptı; sert hava ve fırtına ile geri çekildi.",
+     "keywords": "hendek savaşı selman-ı farisi kuşatma 627"
+    },
+    {
+     "title": "Hudeybiye Antlaşması",
+     "tag": "6 H / 628",
+     "text": "Umre için gelen müslümanlar Mekke'ye alınmadı. Kureyş'le on yıllık ateşkes imzalandı. Bazı sahabeler şartları ağır buldu ama anlaşma barış ortamı sağladı ve İslam'ın hızla yayılmasına zemin hazırladı; Kur'an bunu “apaçık fetih” olarak nitelendirdi (Fetih 1).",
+     "keywords": "hudeybiye antlaşması ateşkes umre fetih suresi 628"
+    },
+    {
+     "title": "Hayber",
+     "tag": "7 H",
+     "text": "Medine'ye yönelik tehdit oluşturan Hayber kalelerine yapılan sefer; müslümanlarla Yahudiler arasında yaşanan çatışma sonrası bölge idari düzenlemeye bağlandı.",
+     "keywords": "hayber 7 h kale"
+    },
+    {
+     "title": "Mûte Seferi",
+     "tag": "8 H",
+     "text": "Bizans sınırına yakın Mûte'de Zeyd b. Hârise, Cafer b. Ebî Tâlib ve Abdullah b. Revâha şehit oldu; ordunun komutasını Hâlid b. Velîd devraldı.",
+     "keywords": "mute zeyd cafer abdullah b. revaha halid"
+    },
+    {
+     "title": "Huneyn",
+     "tag": "8 H",
+     "text": "Mekke fethinden sonra Havâzin ve Sakîf kabilelerine karşı yapıldı. Başlangıçtaki dağınıklığa rağmen müslümanlar zafer kazandı. Peygamberimiz esirlerin geri verilmesi ve ganimet paylaşımında gönülleri kazanıcı bir tutum izledi.",
+     "keywords": "huneyn havazin sakif ganimet"
+    },
+    {
+     "title": "Tebük Seferi",
+     "tag": "9 H",
+     "text": "Bizans tehdidine karşı Peygamberimizin çıktığı son büyük sefer. Savaş yapılmadı. Müslümanlar bu sefer için çok yardım topladı; Hz. Osman'ın büyük bağışı anılır.",
+     "keywords": "tebük seferi bizans osman bağış"
+    },
+    {
+     "title": "Peygamberimizin savaş etiği",
+     "tag": "",
+     "text": "Peygamberimizin ordulara verdiği talimatlar arasında hainlik yapmamak, ağaç kesmemek, çocuk, kadın ve yaşlılara dokunmamak, rahiplere dokunmamak ve barış teklif edilirse kabul etmek yer alır. Mekke'nin fethinde düşmanlarına bile genel af verdi.",
+     "keywords": "savaş etiği talimat barış af ağaç"
+    }
+   ]
+  },
+  {
+   "id": "ashab",
+   "title": "Ashab ve Çevresi",
+   "lead": "Peygamberimizin etrafındaki önemli isimler.",
+   "type": "n",
+   "items": [
+    {
+     "title": "Hz. Ebû Bekir",
+     "tag": "",
+     "text": "İlk halife; Peygamberimizin en yakın dostu ve hicret arkadaşı. “Sıddîk” (doğrulayan) lakabını aldı.",
+     "keywords": "ebu bekir sıddık halife dost"
+    },
+    {
+     "title": "Hz. Ömer",
+     "tag": "",
+     "text": "İkinci halife; adaleti ile tanınır, “Fârûk” lakabıyla anılır. Hicri takvimi başlatan kişidir (Hicret esas alındı).",
+     "keywords": "ömer faruk halife adalet hicri takvim"
+    },
+    {
+     "title": "Hz. Osman",
+     "tag": "",
+     "text": "Üçüncü halife; haya ve cömertliğiyle tanınır. Kur'an'ın çoğaltılıp yayılmasında önemli rol oynadı. “Zünnûreyn” (iki nur sahibi) denir; Peygamberimizin iki kızıyla evlendi.",
+     "keywords": "osman halife zünnureyn mushaf"
+    },
+    {
+     "title": "Hz. Ali",
+     "tag": "",
+     "text": "Dördüncü halife; Peygamberimizin amcaoğlu ve damadı. İlim ve cesaretle tanınır.",
+     "keywords": "ali halife damat amcaoğlu"
+    },
+    {
+     "title": "Hz. Hatîce",
+     "tag": "",
+     "text": "İlk eş ve ilk müslüman. Servetini ve desteğini Peygamberimizin davetine adadı.",
+     "keywords": "hatice ilk eş ilk mümin destek"
+    },
+    {
+     "title": "Hz. Âişe",
+     "tag": "",
+     "text": "Hz. Ebû Bekir'in kızı; hadis ve fıkıh ilminde büyük otorite. Çok sayıda hadis rivayet etmiştir.",
+     "keywords": "aişe hadis fıkıh ilim"
+    },
+    {
+     "title": "Hz. Fâtıma",
+     "tag": "",
+     "text": "Peygamberimizin kızı; Hz. Ali'nin eşi ve Hasan ile Hüseyin'in annesi. “Cennet kadınlarının hanımefendisi” olarak anılır.",
+     "keywords": "fatıma kızı ali hasan hüseyin"
+    },
+    {
+     "title": "Hz. Hamza",
+     "tag": "",
+     "text": "Peygamberimizin amcası ve süt kardeşi. Uhud'da şehit oldu; “Seyyidü'ş-şühedâ” (şehitlerin efendisi) anılır.",
+     "keywords": "hamza şehit uhud amca"
+    },
+    {
+     "title": "Bilâl-i Habeşî",
+     "tag": "",
+     "text": "İlk müezzin. Mekke'de Kureyş'in işkencesine rağmen “Ehad, Ehad” diyerek imanından vazgeçmedi. Mekke fethinde Kâbe'nin üstünden ezan okudu.",
+     "keywords": "bilal müezzin ezan işkence habeşi"
+    },
+    {
+     "title": "Zeyd b. Hârise",
+     "tag": "",
+     "text": "Peygamberimizin azatlı kölesi ve evlat edindiği, çok sevdiği sahabi. Mûte'de komutan olarak şehit düştü.",
+     "keywords": "zeyd harise azatlı mute"
+    },
+    {
+     "title": "Mus'ab b. Umeyr",
+     "tag": "",
+     "text": "Medine'ye gönderilen ilk öğretmen sahabi. Uhud'da şehit düştü.",
+     "keywords": "musab umeyr medine öğretmen uhud"
+    },
+    {
+     "title": "Selmân-ı Fârisî",
+     "tag": "",
+     "text": "İran asıllı sahabi; Hendek'in kazılmasını öneren kişi.",
+     "keywords": "selman farisi hendek"
+    },
+    {
+     "title": "Hâlid b. Velîd",
+     "tag": "",
+     "text": "Bedir ve Uhud'da düşman safındaydı, sonradan müslüman oldu. Mûte'den sonra “Allah'ın kılıcı” lakabını aldı.",
+     "keywords": "halid velid allah'ın kılıcı"
+    },
+    {
+     "title": "Ebû Tâlib",
+     "tag": "",
+     "text": "Peygamberimizin amcası ve hamisi. Peygamberlik öncesi ve sonrası yıllarda onu korudu.",
+     "keywords": "ebu talib amca koruyucu"
+    },
+    {
+     "title": "Necâşî (Ashama)",
+     "tag": "",
+     "text": "Habeşistan hükümdarı. Hicret eden müslümanları himaye etti.",
+     "keywords": "necaşi ashama habeşistan"
+    },
+    {
+     "title": "Ashâb-ı Suffe",
+     "tag": "",
+     "text": "Mescid-i Nebevî'nin Suffe denilen bölümünde kalan yoksul ve ilim öğrenmek isteyen sahabeler. Ebû Hüreyre bunlar arasındadır.",
+     "keywords": "suffe ebu hureyre ilim yoksul"
+    }
+   ]
+  },
+  {
+   "id": "ahlak",
+   "title": "Ahlakı ve Hayatı",
+   "lead": "Karakteri, davranışları ve günlük yaşamı.",
+   "type": "n",
+   "items": [
+    {
+     "title": "Güzel ahlak",
+     "tag": "",
+     "text": "Peygamberimiz güzel ahlakı yaşayarak öğretti. Kur'an onun için “Sen elbette büyük bir ahlak üzerindesin” der (Kalem 4). Hz. Âişe'ye ahlakı sorulunca “Onun ahlakı Kur'an'dı” demiştir.",
+     "keywords": "güzel ahlak kalem suresi aişe kur'an ahlakı"
+    },
+    {
+     "title": "Merhamet ve şefkat",
+     "tag": "",
+     "text": "Çocuklara, yetimlere, yaşlılara ve hayvanlara şefkatle davranırdı. Torunlarını omzuna alıp namaz kıldırdığı, çocukları öpüp sevdiği rivayet edilir. Hayvanlara eziyet etmeyi yasakladı.",
+     "keywords": "merhamet şefkat çocuk hayvan yetim yaşlı"
+    },
+    {
+     "title": "Mütevazı yaşam",
+     "tag": "",
+     "text": "Yamalı elbise giyer, kendi ayakkabısını diker, ev işlerinde aile bireylerine yardım ederdi. Yoksulların ve köle azatlıların yanında oturmaktan çekinmezdi.",
+     "keywords": "tevazu mütevazı yaşam ev işi sade"
+    },
+    {
+     "title": "Sofra ve yemek adabı",
+     "tag": "",
+     "text": "Sade beslenirdi; hurma, süt, bal, ekmek ve zeytinyağı sofrasında sık yer alırdı. Yemekten önce “Bismillah” der, sağ eliyle yer, tıka basa yemeyi tavsiye etmezdi; midenin üçte birini yemeğe, üçte birini suya, üçte birini nefese ayırmayı öğütlerdi (hadis).",
+     "keywords": "yemek hurma süt bal sofra adab"
+    },
+    {
+     "title": "Temizlik ve koku",
+     "tag": "",
+     "text": "Temizliğe çok önem verirdi, misvak kullanır, güzel koku sürerdi. “Temizlik imanın yarısıdır” buyurmuştur (Müslim).",
+     "keywords": "temizlik koku misvak abdest"
+    },
+    {
+     "title": "Mizah ve güler yüz",
+     "tag": "",
+     "text": "Çoğunlukla güler yüzlüydü, mizah yapar ama yalan söylemezdi. Sahabeleriyle sohbet ederdi.",
+     "keywords": "mizah güler yüz tebessüm şaka"
+    },
+    {
+     "title": "Adalet",
+     "tag": "",
+     "text": "Kabile ayrımı gözetmeden herkese eşit davranırdı. Hırsızlık yapan soylu bir kadın için araya girilmesine itiraz edip hukukun herkese uygulanması gerektiğini söyledi.",
+     "keywords": "adalet eşitlik hukuk kadın hırsızlık"
+    },
+    {
+     "title": "Komşu hakkı",
+     "tag": "",
+     "text": "Komşuya iyi davranmayı çok önemserdi. “Komşusu açken tok yatan bizden değildir” hadisi sık aktarılır.",
+     "keywords": "komşu hakkı yardımlaşma"
+    },
+    {
+     "title": "Kadınlara bakışı",
+     "tag": "",
+     "text": "Kızlarını öğrenime ve şahsiyetli olmaya teşvik etti; kadınlara iyi davranmayı vasiyet etti. Veda Hutbesi'nde de kadınlar hakkında özel uyarılarda bulundu.",
+     "keywords": "kadın hakları vasiyet veda hutbesi"
+    },
+    {
+     "title": "Namaz ve ibadet hayatı",
+     "tag": "",
+     "text": "Gece namazını (teheccüd) bırakmaz, sürekli dua ve zikir ederdi. “Gözümün nuru namazda kılındı” buyurmuştur (Nesâî).",
+     "keywords": "namaz ibadet teheccüd dua zikir gözümün nuru"
+    },
+    {
+     "title": "Duaları",
+     "tag": "",
+     "text": "Duaları Kur'an ve hadislerde yer alır; en bilinenlerinden biri “Rabbenâ âtinâ fi'd-dünyâ haseneten…” (Bakara 201) ayetidir. Dualarında hem dünya hem ahiret iyiliğini isterdi.",
+     "keywords": "dua rabbena atina bakara 201"
+    },
+    {
+     "title": "Sağlık ve hayvanlar",
+     "tag": "",
+     "text": "Hasta ziyareti, sağlığı korumak ve hayvanlara şefkat konusunda önerilerde bulundu. Hayvanları aç bırakmayı ve onlara eziyet etmeyi yasakladı.",
+     "keywords": "hasta ziyareti sağlık hayvan şefkat"
+    },
+    {
+     "title": "Barış ve af",
+     "tag": "",
+     "text": "Mekke'de ona en çok eziyet edenlere bile fetih günü genel af ilan etti. Düşmanlarına karşı da adalet ve merhamet ilkesini terk etmedi.",
+     "keywords": "barış af merhamet düşman fetih"
+    },
+    {
+     "title": "Zayıfları koruması",
+     "tag": "",
+     "text": "Yetimler, dullar, köleler ve yoksulların haklarını sürekli hatırlattı. Köle azadını teşvik etti, ücret ve emek hakkı konusunda uyarılarda bulundu.",
+     "keywords": "köle azat yetim dul yoksul işçi hak"
+    }
+   ]
+  },
+  {
+   "id": "hadis",
+   "title": "Hadisler",
+   "lead": "Anlamca aktarılan bazı hadisler (kaynakları belirtilmiştir; ayrıntı için ilgili hadis kitabına bakınız).",
+   "type": "q",
+   "items": [
+    {
+     "text": "Ameller niyetlere göredir.",
+     "note": "Buhârî, Müslim"
+    },
+    {
+     "text": "Sizden biriniz, kendisi için istediğini kardeşi için de istemedikçe (kâmil manada) iman etmiş olmaz.",
+     "note": "Buhârî, Müslim"
+    },
+    {
+     "text": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz.",
+     "note": "Buhârî, Müslim"
+    },
+    {
+     "text": "Ben güzel ahlâkı tamamlamak için gönderildim.",
+     "note": "Ahmed b. Hanbel, Muvatta"
+    },
+    {
+     "text": "Müslüman, elinden ve dilinden diğer müslümanların güvende olduğu kimsedir.",
+     "note": "Buhârî, Müslim"
+    },
+    {
+     "text": "Temizlik imanın yarısıdır.",
+     "note": "Müslim"
+    },
+    {
+     "text": "İyiliklerden hiçbirini küçük görme; kardeşini güler yüzle karşılaman bile bir iyiliktir.",
+     "note": "Müslim"
+    },
+    {
+     "text": "İnsanların en hayırlısı, insanlara en faydalı olandır.",
+     "note": "Taberânî (Mu'cemü'l-Evsat)"
+    },
+    {
+     "text": "Komşusu açken kendisi tok yatan bizden değildir.",
+     "note": "Taberânî, Beyhakî"
+    },
+    {
+     "text": "Kim Allah'a ve ahiret gününe inanıyorsa ya hayır söylesin ya sussun.",
+     "note": "Buhârî, Müslim"
+    },
+    {
+     "text": "Kuvvetli kimse güreşte yenen değil, öfkelendiği zaman kendine hâkim olandır.",
+     "note": "Buhârî, Müslim"
+    },
+    {
+     "text": "Cennet annelerin ayakları altındadır.",
+     "note": "Nesâî, İbn Mâce (rivayet; senedi hakkında farklı değerlendirmeler vardır)"
+    }
+   ]
+  },
+  {
+   "id": "zaman",
+   "title": "Zaman Çizelgesi",
+   "lead": "Bir yıla dokunun: o yılın olayları açılır. (Miladi yıllar yaklaşık değerlerdir.)",
+   "type": "y",
+   "items": [
+    {
+     "year": "571",
+     "title": "Doğum",
+     "text": "Mekke'de, Fil Yılı'nda dünyaya geldi. Babası Abdullah doğumundan önce vefat etmişti.",
+     "events": [
+      "Doğum (Rebiülevvel, pazartesi)",
+      "Halime'ye süt anne olarak verildi"
+     ],
+     "keywords": "doğum fil yılı"
+    },
+    {
+     "year": "577",
+     "title": "Annesinin vefatı",
+     "text": "6 yaşında annesi Âmine Ebvâ'da vefat etti; dedesi Abdülmuttalib'in himayesine girdi.",
+     "events": [
+      "Âmine vefat etti (Ebvâ)"
+     ],
+     "keywords": "anne vefat ebvâ"
+    },
+    {
+     "year": "578",
+     "title": "Dedesinin vefatı",
+     "text": "8 yaşında dedesi Abdülmuttalib vefat etti; amcası Ebû Tâlib'in yanına geçti.",
+     "events": [
+      "Abdülmuttalib vefat etti",
+      "Ebû Tâlib'in himayesi"
+     ],
+     "keywords": "dede vefat ebu talib"
+    },
+    {
+     "year": "582",
+     "title": "Şam yolculuğu",
+     "text": "12 yaşında amcasıyla Şam'a kervan yolculuğuna çıktı; Rahip Bahîra ile karşılaşması rivayet edilir.",
+     "events": [
+      "Şam yolculuğu",
+      "Rahip Bahîra"
+     ],
+     "keywords": "şam bahira"
+    },
+    {
+     "year": "595",
+     "title": "Hz. Hatîce ile evlilik",
+     "text": "25 yaşında Hz. Hatîce ile evlendi. Çocukları bu evlilikten dünyaya geldi (İbrahim hariç).",
+     "events": [
+      "Hatîce ile evlilik"
+     ],
+     "keywords": "hatice evlilik"
+    },
+    {
+     "year": "605",
+     "title": "Hacerülesved hakemliği",
+     "text": "Kâbe'nin yenilenmesi sırasında Hacerülesved'in yerine konması konusunda hakem seçildi ve ihtilafı barışla çözdü.",
+     "events": [
+      "Kâbe inşası",
+      "Hakemlik"
+     ],
+     "keywords": "hacerülesved kâbe"
+    },
+    {
+     "year": "610",
+     "title": "İlk vahiy",
+     "text": "40 yaşında, Ramazan ayında Hira Mağarası'nda Cebrâil (a.s.) ile karşılaştı; Alak suresinin ilk beş ayeti indi.",
+     "events": [
+      "İlk vahiy (Hira)",
+      "Gizli davet başladı"
+     ],
+     "keywords": "vahiy hira alak"
+    },
+    {
+     "year": "613",
+     "title": "Açık davet",
+     "text": "Safâ Tepesi'nde Mekkelileri İslam'a açıkça davet etti. Kureyş'in baskıları arttı.",
+     "events": [
+      "Safâ Tepesi daveti"
+     ],
+     "keywords": "açık davet safa"
+    },
+    {
+     "year": "615",
+     "title": "Habeşistan'a hicret",
+     "text": "Müslümanlar Mekke'deki baskılardan kurtulmak için adil bir hükümdar olan Habeş Necâşîsi'nin yanına hicret etti.",
+     "events": [
+      "Habeşistan'a ilk hicret"
+     ],
+     "keywords": "habeşistan hicret"
+    },
+    {
+     "year": "616",
+     "title": "Boykot başlıyor",
+     "text": "Kureyş Hâşimoğulları ve müslümanlara karşı ekonomik boykot başlattı. Hz. Ömer'in müslüman oluşu da bu yıllarda anılır.",
+     "events": [
+      "Boykot (616–619)",
+      "Hz. Ömer'in müslüman olması"
+     ],
+     "keywords": "boykot ömer"
+    },
+    {
+     "year": "619",
+     "title": "Hüzün yılı",
+     "text": "Eşi Hz. Hatîce ve amcası Ebû Tâlib vefat etti. Aynı sıralarda Tâif'e gitti.",
+     "events": [
+      "Hatîce vefat etti",
+      "Ebû Tâlib vefat etti",
+      "Tâif yolculuğu"
+     ],
+     "keywords": "hüzün yılı taif hatice ebu talib"
+    },
+    {
+     "year": "621",
+     "title": "İsrâ, Mi'râc ve Akabe",
+     "text": "İsrâ ve Mi'râc olayı ve Akabe biatlarının ilki (tarihler rivayetlere göre değişir).",
+     "events": [
+      "İsrâ ve Mi'râc",
+      "Birinci Akabe biatı"
+     ],
+     "keywords": "isra miraç akabe"
+    },
+    {
+     "year": "622",
+     "title": "Hicret",
+     "text": "Mekke'den Medine'ye hicret etti. Sevr Mağarası'nda üç gün kaldı. Medine'de Kubâ Mescidi ve Mescid-i Nebevî inşa edildi. Hicri takvim bu olayı başlangıç alır.",
+     "events": [
+      "İkinci Akabe biatı",
+      "Sevr Mağarası",
+      "Kubâ'ya varış",
+      "Mescid-i Nebevî",
+      "Muâhât (kardeşleme)"
+     ],
+     "keywords": "hicret medine sevr kuba"
+    },
+    {
+     "year": "624",
+     "title": "Bedir Savaşı",
+     "text": "17 Ramazan'da Bedir'de 313 müslüman Kureyş ordusunu yendi. Aynı yıl kıble Kâbe'ye çevrildi, Ramazan orucu farz oldu.",
+     "events": [
+      "Kıblenin değişmesi (2 H)",
+      "Ramazan orucu",
+      "Bedir Savaşı"
+     ],
+     "keywords": "bedir kıble oruç"
+    },
+    {
+     "year": "625",
+     "title": "Uhud Savaşı",
+     "text": "Şevval ayında Uhud Savaşı yapıldı; Hz. Hamza şehit düştü.",
+     "events": [
+      "Uhud Savaşı",
+      "Hz. Hamza şehit oldu"
+     ],
+     "keywords": "uhud hamza"
+    },
+    {
+     "year": "627",
+     "title": "Hendek Savaşı",
+     "text": "Medine kuşatması Hendek'le karşılandı; müttefikler geri çekildi.",
+     "events": [
+      "Hendek Savaşı"
+     ],
+     "keywords": "hendek"
+    },
+    {
+     "year": "628",
+     "title": "Hudeybiye Antlaşması",
+     "text": "Umre için yola çıkan müslümanlarla Kureyş arasında on yıllık ateşkes antlaşması imzalandı.",
+     "events": [
+      "Hudeybiye",
+      "Mektuplarla hükümdarlara davet"
+     ],
+     "keywords": "hudeybiye antlaşma"
+    },
+    {
+     "year": "629",
+     "title": "Hayber ve Mûte",
+     "text": "Hayber seferi ve Mûte Savaşı (7–8 H). Zeyd, Cafer ve Abdullah b. Revâha şehit oldu.",
+     "events": [
+      "Hayber",
+      "Mûte Savaşı"
+     ],
+     "keywords": "hayber mute"
+    },
+    {
+     "year": "630",
+     "title": "Mekke'nin fethi",
+     "text": "Ramazan ayında Mekke barışla fethedildi, genel af ilan edildi. Ardından Huneyn ve Tâif seferleri yapıldı; Tebük seferi de bu yıl yapıldı.",
+     "events": [
+      "Mekke'nin fethi",
+      "Genel af",
+      "Huneyn",
+      "Tâif kuşatması",
+      "Tebük Seferi"
+     ],
+     "keywords": "mekke fethi huneyn tebük"
+    },
+    {
+     "year": "632",
+     "title": "Veda Haccı ve vefat",
+     "text": "Veda Haccı'nı yaptı, Arafat'ta Veda Hutbesi'ni okudu. Birkaç ay sonra Rebiülevvel ayında (8 Haziran 632), pazartesi günü Medine'de Hz. Âişe'nin odasında vefat etti; orada defnedildi.",
+     "events": [
+      "Veda Haccı (Zilhicce 10 H)",
+      "Veda Hutbesi",
+      "Vefat (12 Rebiülevvel 11 H)",
+      "Hz. Âişe'nin odasına defin"
+     ],
+     "keywords": "veda haccı hutbe vefat 632"
+    }
+   ]
+  },
+  {
+   "id": "sss",
+   "title": "Sık Sorulan Sorular",
+   "lead": "Kısa ve net cevaplar.",
+   "type": "f",
+   "items": [
+    {
+     "title": "Hz. Muhammed ne zaman ve nerede doğdu?",
+     "tag": "",
+     "text": "Fil Yılı'nda, Rebiülevvel ayında bir pazartesi günü Mekke'de doğdu (yaklaşık M.S. 570–571).",
+     "keywords": "doğum mekke fil yılı"
+    },
+    {
+     "title": "Kaç yaşında peygamber oldu?",
+     "tag": "",
+     "text": "40 yaşında, Ramazan ayında Hira Mağarası'nda ilk vahiy geldi.",
+     "keywords": "peygamberlik 40 yaş vahiy"
+    },
+    {
+     "title": "Kaç yıl peygamberlik yaptı?",
+     "tag": "",
+     "text": "Yaklaşık 23 yıl: 13 yıl Mekke'de, 10 yıl Medine'de.",
+     "keywords": "peygamberlik süre 23 yıl"
+    },
+    {
+     "title": "Hicret nedir, ne zaman oldu?",
+     "tag": "",
+     "text": "Mekke'deki baskılardan dolayı Medine'ye göçtür; 622'de gerçekleşti. Hicri takvim bu olaya dayanır.",
+     "keywords": "hicret 622 takvim"
+    },
+    {
+     "title": "Kaç yaşında vefat etti?",
+     "tag": "",
+     "text": "63 yaşında, 11 Hicrî / 8 Haziran 632'de Medine'de vefat etti.",
+     "keywords": "vefat yaş 63"
+    },
+    {
+     "title": "Nerede defnedildi?",
+     "tag": "",
+     "text": "Medine'de vefat ettiği yer olan Hz. Âişe'nin odasında defnedildi. Bugün Mescid-i Nebevî'nin içinde kalır (Ravza-i Mutahhara).",
+     "keywords": "defin medine ravza mescid-i nebevi"
+    },
+    {
+     "title": "İlk inen ayetler hangileridir?",
+     "tag": "",
+     "text": "Alak suresinin ilk beş ayeti: “İkra' bismi rabbikellezî halak…”",
+     "keywords": "ilk ayet alak oku ikra"
+    },
+    {
+     "title": "Mevlid Kandili nedir?",
+     "tag": "",
+     "text": "Peygamberimizin doğumu olan 12 Rebiülevvel'i anmak için kutlanan gündür. Mevlid geleneği Osmanlı döneminde Süleyman Çelebi'nin “Mevlid” eseriyle yaygınlaşmıştır. Kandil gününün kesin tarihi hakkında kaynaklarda farklı görüşler vardır.",
+     "keywords": "mevlid kandili 12 rebiülevvel süleyman çelebi"
+    },
+    {
+     "title": "Kaç eşi vardı?",
+     "tag": "",
+     "text": "Kaynaklarda genellikle 11 eşi olduğu belirtilir (müminlerin anneleri). Hz. Hatîce hayattayken başka evlilik yapmamıştır.",
+     "keywords": "eşler 11 hatice ümmehat"
+    },
+    {
+     "title": "Veda Hutbesi'nde neler vardır?",
+     "tag": "",
+     "text": "Can-mal dokunulmazlığı, faizin kaldırılması, kadın haklarına riayet, insanların eşitliği, Kur'an ve Sünnet'e sarılma ve emanetlerin yerine ulaştırılması.",
+     "keywords": "veda hutbesi eşitlik faiz kadın"
+    },
+    {
+     "title": "Hadis ve sünnet nedir?",
+     "tag": "",
+     "text": "Hadis, Peygamberimizin söz, fiil ve onaylarının nakledilmiş hâlidir. Sünnet ise onun yolu ve uygulamasıdır. Sahih kaynaklar arasında Buhârî ve Müslim sıkça anılır.",
+     "keywords": "hadis sünnet buhari müslim"
+    },
+    {
+     "title": "Dört halife kimlerdir?",
+     "tag": "",
+     "text": "Hz. Ebû Bekir, Hz. Ömer, Hz. Osman ve Hz. Ali (r.a.).",
+     "keywords": "dört halife ebu bekir ömer osman ali"
+    }
+   ]
+  },
+  {
+   "id": "kitaplar",
+   "title": "Kitaplar",
+   "lead": "Peygamberimizin hayatı (siyer) ve hadis üzerine temel kaynaklar.",
+   "type": "n",
+   "items": [
+    {
+     "title": "Klasik siyer kaynakları",
+     "tag": "",
+     "text": "İbn İshak – es-Sîre (İbn Hişâm'ın derlemesiyle) ve İbn Sa'd – et-Tabakâtü'l-Kübrâ, en eski ve temel kaynaklar arasındadır.",
+     "keywords": "siyer ibn ishak ibn hişam ibn sa'd tabakat"
+    },
+    {
+     "title": "Hadis kaynakları",
+     "tag": "",
+     "text": "Buhârî – el-Câmiu's-Sahîh, Müslim – es-Sahîh, Ebû Dâvûd, Tirmizî, Nesâî ve İbn Mâce (Kütüb-i Sitte).",
+     "keywords": "hadis buhari müslim tirmizi nesai kütüb-i sitte"
+    },
+    {
+     "title": "Şemâil ve ahlak",
+     "tag": "",
+     "text": "Tirmizî – eş-Şemâil: Peygamberimizin görünüşü ve ahlakı. Kadı İyâz – eş-Şifâ: Peygamberimizin hak ve faziletleri.",
+     "keywords": "şemail tirmizi şifa kadı iyaz"
+    },
+    {
+     "title": "Türkçe kaynaklar",
+     "tag": "",
+     "text": "Muhammed Hamidullah – İslam Peygamberi; Mevlid-i Şerif (Süleyman Çelebi); Ahmed Cevdet Paşa – Kısas-ı Enbiyâ; Mehmet Âkif'in Safahat'ı (bazı şiirlerinde Peygamberimiz sevgisi).",
+     "keywords": "hamidullah islam peygamberi mevlid süleyman çelebi kısas"
+    },
+    {
+     "title": "Dikkat",
+     "tag": "",
+     "text": "Yayın yılları ve basımlar yayınevine göre değişir. Hadis ve siyer konularında ilim ehline danışmak ve güvenilir kaynaklara başvurmak önerilir.",
+     "keywords": "dikkat kaynak basım"
+    }
+   ]
+  }
+ ]
+}
